@@ -25,11 +25,12 @@ p {
   margin-top: 0;
   margin-bottom: 0;
 }
+/*
 img {
   display: block;
   max-width: 100%;
   height: auto;
-}
+}*/
 .visually-hidden {
   position: absolute;
   width: 1px;
@@ -523,6 +524,7 @@ img {
 }
 .card-content {
   width: 370px;
+
   background-color: #ffffff;
   text-align: left;
   padding-right: 24px;
